@@ -1,0 +1,6 @@
+Tecnologias utilizadas:
+  Linguagem:Python
+  IDE: VSCODE
+  Orquestração: Apache-Airflow
+
+Para executar deverá utilizar o docker para desktop, subir o airflow com docker-compose -d, ao acessar o ambiente no navegador, procurar pela DAG jsonplaceholder_to_s3 e executa-la
